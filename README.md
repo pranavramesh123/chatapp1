@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-Complete user interface for WhatsApp developed by @iamkishansharma with ❤️
+Complete user interface for WhatsApp developed by @iamkishansharma and Pranav Ramesh with ❤️
 
 
 

@@ -1,5 +1,4 @@
 # whatsapp_clone
-A WhatsApp clone UI
 <table style="width:100%; align:center;" >
   <tr>
     <th>Camera</th>
